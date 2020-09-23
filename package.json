@@ -1,0 +1,22 @@
+{
+  "name": "mobile-app",
+  "version": "1.0.0",
+  "description": "Before beggining, please fork this project with your GitHub account.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olhybrius/mobile-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olhybrius/mobile-app/issues"
+  },
+  "homepage": "https://github.com/olhybrius/mobile-app#readme",
+  "dependencies": {
+    "firebase-tools": "^8.11.0"
+  }
+}
